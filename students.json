@@ -1,0 +1,47 @@
+[
+    {
+        "id": 2,
+        "name": "Alyaa"
+    },
+    {
+        "id": 3,
+        "name": "Ola"
+    },
+    {
+        "id": 3,
+        "name": "Ola"
+    },
+    {
+        "id": 4,
+        "name": "Ali"
+    },
+    {
+        "id": 5,
+        "name": "Ali"
+    },
+    {
+        "id": 6,
+        "name": "Ali"
+    },
+    {
+        "id": 7,
+        "name": "Ali"
+    },
+    {
+        "id": 9,
+        "name": "ahmed"
+    },
+    {
+        "id": 11,
+        "name": "ahmed"
+    },
+    {
+        "id": 77,
+        "name": "Hany",
+        "degree": [
+            1,
+            2,
+            3
+        ]
+    }
+]

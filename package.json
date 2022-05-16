@@ -1,0 +1,27 @@
+{
+  "name": "studapp",
+  "version": "1.0.0",
+  "main": "studApp.js",
+  "dependencies": {
+    "argv": "^0.0.2",
+    "yargs": "^17.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alyaaHamdy/NoteApp.git"
+  },
+  "keywords": [
+    "student"
+  ],
+  "author": "Alyaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alyaaHamdy/NoteApp/issues"
+  },
+  "homepage": "https://github.com/alyaaHamdy/NoteApp#readme",
+  "description": ""
+}
